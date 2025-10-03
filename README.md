@@ -9,5 +9,7 @@ warning - very scuffed; issues include:
  - many files with useless/broken tests
 
 Special thanks goes to 3blue1brown for his series on Neural Networks, which is how I initially learned everything, and Michael Nielsen, whose neural network implementation I referenced.
+
 3blue1brown's neural network series: https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=YxSXqAlSRpeBfm8a
+
 Github repo for Michael Nielsen's NN implementation: https://github.com/mnielsen/neural-networks-and-deep-learning
