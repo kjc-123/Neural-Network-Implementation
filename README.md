@@ -1,6 +1,8 @@
 # Neural-Network-Implementation
 Simple neural network with one hidden layer training on MNIST
 
+Done out of my personal curiosity
+
 warning - very scuffed; issues include:
  - dimensions of everything are backwards from what is standard
  - only implemented one (1) hidden layer with sixteen (16) neurons; code is not very generalizable in present state
